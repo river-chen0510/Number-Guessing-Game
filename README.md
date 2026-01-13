@@ -1,25 +1,21 @@
 # Number-Guessing-Game
 
 ## Table of Contents
-- ### [1. Description](#1-description)
-  - [1.1: What I Learned](#11-what-i-learned) 
-    
-- ### [2. Features](#2-features)
-
-- ### **[3. Using The Number Guessing Game](#3-using-the-number-guessing-game)**
-  - [3.1: Welcome Message](#31-welcome-message)
-  - [3.2: Guessing The Number](#32-guessing-the-number)
-  - [3.3: Finishing The Game](#33-finishing-the-game)
-  - [3.4: Restarting Game](#34-restarting-game)
- 
-- ### **[4: Implementations](#4-implementations)**
-  - [4.1: Flow Chart](#41-flow-chart)
-  - [4.2: Buffer Clearing](#42-buffer-clearing)
-  - [4.3: Multi-File System](#43-multi-file-system)
-  - [4.4: Functions](#44-functions)
-
-- ### **[5: The End](#5-the-end)**
-  - [5.1: Contact](#51-contact)
+-  [1. Description](#1-description)
+    - [1.1: What I Learned](#11-what-i-learned) 
+-  [2. Features](#2-features)
+-  [3. Using The Number Guessing Game](#3-using-the-number-guessing-game)
+    - [3.1: Welcome Message](#31-welcome-message)
+    - [3.2: Guessing The Number](#32-guessing-the-number)
+    - [3.3: Finishing The Game](#33-finishing-the-game)
+    - [3.4: Restarting Game](#34-restarting-game)
+- [4: Implementations](#4-implementations)
+    - [4.1: Flow Chart](#41-flow-chart)
+    - [4.2: Buffer Clearing](#42-buffer-clearing)
+    - [4.3: Multi-File System](#43-multi-file-system)
+    - [4.4: Functions](#44-functions)
+-  [5: The End](#5-the-end)
+    - [5.1: Contact](#51-contact)
   
     
 
@@ -71,7 +67,7 @@ You have 5 attempts, use them wisely!
 ```
 
 ## 3.2: Guessing the number
-After the welcoming part, the user will have 5 attempts to guess the number that was generated. The code will provide feedback on whether or not their guess was too high or too low.
+After the welcoming part, the user will have five attempts to guess the randomly generated number. The code will provide feedback on whether or not their guess was too high or too low.
 
 
 ### Too low:
@@ -88,7 +84,7 @@ Please guess a number: 100
 Guess too high! Please try again!
 ```
 
-  If there is an error, the game will let the user know and won't take away an attempt to ensure fair play.
+  If an error occurs, the game will notify the user and not deduct an attempt to ensure fair play.
 
 ### Character error:
 This is how the character error will act
