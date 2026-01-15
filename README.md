@@ -9,12 +9,12 @@
     - [3.2: Guessing The Number](#32-guessing-the-number)
     - [3.3: Finishing The Game](#33-finishing-the-game)
     - [3.4: Restarting Game](#34-restarting-game)
-- [4: Implementations](#4-implementations)
+- [4. Implementations](#4-implementations)
     - [4.1: Flow Chart](#41-flow-chart)
     - [4.2: Buffer Clearing](#42-buffer-clearing)
     - [4.3: Multi-File System](#43-multi-file-system)
     - [4.4: Functions](#44-functions)
--  [5: The End](#5-the-end)
+-  [5. The End](#5-the-end)
     - [5.1: Contact](#51-contact)
   
     
